@@ -10,17 +10,21 @@ Je suis un passionné d'informatique actuellement en **BUT Informatique (Parcour
 ### 💻 Compétences Techniques
 
 - **Langages de programmation :** 
-  ![C](https://shields.io)
-  ![Java](https://shields.io)
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="Java" />
+
 - **Développement Web :** 
-  ![HTML5](https://shields.io)
-  ![CSS3](https://shields.io)
-  ![JavaScript](https://shields.io)
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="PHP" />
+
 - **Bases de données :** 
-  ![SQL](https://shields.io)
+  <img src="https://shields.io" alt="SQL" />
+
 - **Systèmes & Outils :** 
-  ![Linux](https://shields.io)
-  ![Git](https://shields.io)
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Git" />
 
 ---
 
@@ -49,7 +53,6 @@ Je suis un passionné d'informatique actuellement en **BUT Informatique (Parcour
 
 ### 📬 Me contacter
 
-- 💼 **LinkedIn :** [Ton lien LinkedIn si tu en as un]
 - 📧 **Email :** matheorim@gmail.com
 - 📍 **Localisation :** Caen, France
 
