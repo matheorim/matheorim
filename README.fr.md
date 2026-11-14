@@ -1,5 +1,7 @@
 # Bonjour , Je suis Mathéo Rimbault! 👋
 
+🇬🇧 [English version](README.md)
+
 ### 🚀 Étudiant en 2ème année de BUT Informatique
 Je suis un passionné d'informatique actuellement en **BUT Informatique (Parcours A : Réalisation d'applications : conception, développement, validation)** à l'**IUT Grand Ouest Normandie (Caen)**. 
 
