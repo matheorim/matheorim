@@ -44,6 +44,13 @@ Je suis un passionné d'informatique actuellement en **BUT Informatique (Parcour
 
 ---
 
+### 📂 Projets GitHub
+
+- [Gribouille](https://github.com/matheorim/Gribouille) : application de dessin en JavaFX, selon le patron MVC.
+- [Othello-Projet-java](https://github.com/matheorim/Othello-Projet-java) : jeu de plateau hexagonal à deux équipes en Java, avec interface console.
+
+---
+
 ### 📬 Me contacter
 
 - 📧 **Email :** matheorim@gmail.com
