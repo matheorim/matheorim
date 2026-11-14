@@ -48,7 +48,7 @@ I'm a computer science enthusiast currently studying for a **BUT Informatique** 
 ### 📂 Projects on GitHub
 
 - [Gribouille](https://github.com/matheorim/Gribouille): drawing application built with JavaFX, following the MVC pattern.
-- [sae-21](https://github.com/matheorim/sae-21): two-player hexagonal board game in Java, with a console interface.
+- [Othello-Projet-java](https://github.com/matheorim/Othello-Projet-java): two-player hexagonal board game in Java, with a console interface.
 
 ---
 
