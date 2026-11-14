@@ -42,15 +42,6 @@ Je suis un passionné d'informatique actuellement en **BUT Informatique (Parcour
 
 ---
 
-### 📊 Mes Statistiques GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheorim&show_icons=true&theme=dark&hide_border=true" alt="Stats GitHub de Mathéo" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheorim&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés" height="150" />
-</p>
-
----
-
 ### 📬 Me contacter
 
 - 📧 **Email :** matheorim@gmail.com
